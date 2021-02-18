@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Tyler.
+
+[Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89-57e?style=for-the-badge)
+
+![Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89-57e?style=for-the-badge)
 
 <!--
 **WesternPine/WesternPine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
