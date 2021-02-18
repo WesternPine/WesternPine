@@ -25,13 +25,16 @@
 <img align="left" alt="C/C++" width="27px" height="27px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
 <img align="left" alt="Go" width="27px" height="27px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" />
 <img align="left" alt="Rust" width="27px" height="27px" src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" />
+<img align="left" alt="SQL" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="27px" height="27px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="27px" height="27px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />
 <img align="left" alt="HTML5" width="27px" height="27px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />
 <img align="left" alt="CSS3" width="27px" height="27px" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" />
+<img align="left" alt="SASS" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JSON" width="27px" height="27px" src="https://image.shutterstock.com/image-illustration/json-file-document-icon-trendy-600w-1407017528.jpg" />
 <img align="left" alt="Git" width="27px" height="27px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" />
 <img align="left" alt="GitHub" width="27px" height="27px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
+<img align="left" alt="Terminal" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
