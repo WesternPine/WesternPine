@@ -29,6 +29,8 @@
 <img align="left" alt="Git" width="27px" height="27px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" />
 <img align="left" alt="GitHub" width="27px" height="27px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
 
+<br />
+
 ---
 
 <summary>✔ GitHub Stats</summary>
