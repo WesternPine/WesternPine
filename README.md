@@ -44,7 +44,7 @@
 
 <details>
 <summary>🖊 Most Used Languages</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark&hide_langs_below=0" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark" />
 </details>
  
 <summary>✔ GitHub Stats</summary>
