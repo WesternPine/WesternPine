@@ -1,6 +1,7 @@
 # Hi, I'm Tyler.
 
 [![Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89-57e?style=for-the-badge)](mailto:tyler@westernpine.dev)
+[![MainProject](https://img.shields.io/badge/PulseProject.Io-Main Project-aad?style=flat-square)](mailto:tyler@westernpine.dev)
 
 
 
