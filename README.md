@@ -6,7 +6,7 @@
 
 ## About Me 📜
 
- - ⭐ Note ⭐<br />Not all work is shown. Some is private code, and others are under a NDA. Private code may be shown upon request.
+ - ⭐ __Note__ ⭐<br />Not all work is shown. Some is private code, and others are under a NDA. Private code may be shown upon request.
 
 <br />
 
