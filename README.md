@@ -5,6 +5,8 @@
 
 ## About Me 📜
 
+ - ⭐ Note that not all my work is displayed, as some is private code, and others are under a NDA. Private code may be shown upon request. ⭐
+<br />
  - ⌨ I started coding in 2012! Wow I'm old...
  - 🎮 I learned to code by making what I needed for my games.
  - 📜 My major is in Computer Science, with a few extra courses and certifications.
