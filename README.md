@@ -13,7 +13,7 @@
  - 🎸 Favorite Artist: Highly Suspect
 
 ## Languages & Tools 🈴
-[<img align="center" alt="Visual Studio Code" width="26px" src="http://www.icons101.com/icons/37/Shadow135__Application_Icons_Pack_1_by_BlackVariant/128/Eclipse.png"/>][tools]
+[<img align="left" alt="Visual Studio Code" width="26px" src="http://www.icons101.com/icons/37/Shadow135__Application_Icons_Pack_1_by_BlackVariant/128/Eclipse.png"/>][tools]
 
 
 <br />
