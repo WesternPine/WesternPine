@@ -5,7 +5,7 @@
 
 ## About Me 📜
 
- - ⭐ Note ⭐<br />Not all my work is displayed, as some is private code, and others are under a NDA. Private code may be shown upon request.
+ - ⭐ Note ⭐<br />Not all work is shown. Some is private code, and others are under a NDA. Private code may be shown upon request.
 
  - ⌨ I started coding in 2012! Wow I'm old...
  - 🎮 I learned to code by making what I needed for my games.
