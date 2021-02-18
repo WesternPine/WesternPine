@@ -14,7 +14,8 @@
 
 ## Languages & Tools 🈴
 
-<img align="center" alt="Eclipse" width="26px" src="http://www.icons101.com/icons/37/Shadow135__Application_Icons_Pack_1_by_BlackVariant/128/Eclipse.png" /><img align="center" alt="Maven" width="26px" src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" />
+<img align="center" alt="Eclipse" width="27px" height="27px" src="http://www.icons101.com/icons/37/Shadow135__Application_Icons_Pack_1_by_BlackVariant/128/Eclipse.png" />
+<img align="center" alt="Maven" width="27px" height="27px" src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" />
 
 
 <br />
