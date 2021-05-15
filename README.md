@@ -12,8 +12,12 @@
 
  - ⌨ I started coding in 2012! Wow I'm old...
  - 🎮 I learned to code by making what I needed for my games.
- - 📜 My major is in Computer Science, with a few extra courses and certifications.
- - 💻 Programming is my hobby, but I do all sorts of Computer and Networking activities!
+ - ⭐ Proudest Achievement: Not giving up on my prjects or degree when things got tough.
+ - 🌈 Favorite Color: ⚫/⚪/🔵
+ - 📜 My major is in Computer Science.
+ - 🎓 I graduated with an A.S. in Computer Information Technology.
+ - ⚪ I also completed other courses and certifications to become more well-rounded.
+ - 💻 Programming is my hobby, however, I do all sorts of Computer and Network related activities!
  - 🎵 Favorite Genra: Rock/Alternative
  - 🎸 Favorite Artist: Highly Suspect
 
