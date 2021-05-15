@@ -12,7 +12,7 @@
 
  - ⌨ I started coding in 2012! Wow I'm old...
  - 🎮 I learned to code by making what I needed for my games.
- - ⭐ Proudest Achievement: Not giving up on my prjects or degree when things got tough.
+ - ⭐ Proudest Achievement: Not giving up on my projects or degree when things got tough.
  - 🌈 Favorite Color: ⚫/⚪/🔵
  - 📜 My major is in Computer Science.
  - 🎓 I graduated with an A.S. in Computer Information Technology.
