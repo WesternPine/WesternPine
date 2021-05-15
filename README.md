@@ -15,7 +15,7 @@
  - 🌈 Favorite Color: ⚫/⚪/🔵
  - ⭐ Proudest Achievement: Not giving up on my projects or degree when things got tough.
  - 📜 My major is in Computer Science.
- - 🎓 I graduated with an A.S. in Computer Information Technology.
+ - 🎓 I graduated as an honor student with an A.S. in Computer Information Technology.
  - ⚪ I also completed other courses and certifications to become more well-rounded.
  - 💻 Programming is my hobby, however, I do all sorts of Computer and Network related activities!
  - 🎵 Favorite Genra: Rock/Alternative
