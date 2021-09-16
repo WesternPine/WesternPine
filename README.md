@@ -32,6 +32,8 @@
 <img align="left" alt="SQL" width="27px" height="27px" src="https://i.imgur.com/ZKa8Wc8.png"/>
 <img align="left" alt="JS" width="27px" height="27px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
 
+<br />
+<br />
 ### Markup and Design
 
 <img align="left" alt="XML" width="27px" height="27px" src="https://i.imgur.com/i6ZtksA.png"/>
@@ -39,11 +41,15 @@
 <img align="left" alt="HTML5" width="27px" height="27px" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"/>
 <img align="left" alt="CSS3" width="27px" height="27px" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"/>
 
+<br />
+<br />
 ### OS and Networking
 
 <img align="left" alt="UNIX-Based OS" width="27px" height="27px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"/>
 <img align="left" alt="Cisco Routers/Switches" width="27px" height="27px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg12.deviantart.net%2Fce19%2Fi%2F2009%2F140%2Fe%2Fb%2Fcisco_vpn_icon_by_rich90usa.png&f=1&nofb=1"/>
 
+<br />
+<br />
 ### Tools
 
 <img align="left" alt="Git" width="27px" height="27px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"/>
