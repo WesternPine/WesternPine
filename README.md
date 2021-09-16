@@ -21,25 +21,35 @@
  - 🎵 Favorite Genra: Rock/Alternative
  - 🎸 Favorite Artist: Highly Suspect
 
-## Languages & Tools 🈴
+## Skills 🙌
 
-<img align="left" alt="Eclipse" width="27px" height="27px" src="http://www.icons101.com/icons/37/Shadow135__Application_Icons_Pack_1_by_BlackVariant/128/Eclipse.png" />
-<img align="left" alt="Maven" width="27px" height="27px" src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" />
-<img align="left" alt="Java" width="27px" height="27px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="Python" width="27px" height="27px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-<img align="left" alt="C/C++" width="27px" height="27px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
-<img align="left" alt="Go" width="27px" height="27px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" />
-<img align="left" alt="Rust" width="27px" height="27px" src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" />
-<img align="left" alt="SQL" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="27px" height="27px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" />
-<img align="left" alt="JavaScript" width="27px" height="27px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />
-<img align="left" alt="HTML5" width="27px" height="27px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />
-<img align="left" alt="CSS3" width="27px" height="27px" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" />
-<img align="left" alt="SASS" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JSON" width="27px" height="27px" src="https://image.shutterstock.com/image-illustration/json-file-document-icon-trendy-600w-1407017528.jpg" />
-<img align="left" alt="Git" width="27px" height="27px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" />
-<img align="left" alt="GitHub" width="27px" height="27px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
-<img align="left" alt="Terminal" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Languages
+
+<img align="left" alt="Java" width="27px" height="27px" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"/>
+<img align="left" alt="Python" width="27px" height="27px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
+<img align="left" alt="GoLang" width="27px" height="27px" src="https://camo.githubusercontent.com/13e18ab9046dbfdf25bb7a0448ec88710166b5ec85f3cd1b57efe2a9aa4ccdd6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f2e737667"/>
+<img align="left" alt="Bash" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+<img align="left" alt="SQL" width="27px" height="27px" src="https://i.imgur.com/ZKa8Wc8.png"/>
+<img align="left" alt="JS" width="27px" height="27px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
+
+### Markup and Design
+
+<img align="left" alt="XML" width="27px" height="27px" src="https://i.imgur.com/i6ZtksA.png"/>
+<img align="left" alt="JSON" width="27px" height="27px" src="https://i.imgur.com/EJ4V5k9.png"/>
+<img align="left" alt="HTML5" width="27px" height="27px" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"/>
+<img align="left" alt="CSS3" width="27px" height="27px" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"/>
+
+### OS and Networking
+
+<img align="left" alt="UNIX-Based OS" width="27px" height="27px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"/>
+<img align="left" alt="Cisco Routers/Switches" width="27px" height="27px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg12.deviantart.net%2Fce19%2Fi%2F2009%2F140%2Fe%2Fb%2Fcisco_vpn_icon_by_rich90usa.png&f=1&nofb=1"/>
+
+### Tools
+
+<img align="left" alt="Git" width="27px" height="27px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"/>
+<img align="left" alt="Maven" width="27px" height="27px" src="https://camo.githubusercontent.com/c4e96e33c924e2dc31d8f63740592f5cd41f6f124a23cd1e79301fbd871cd271/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f6170616368652d6c6f676f2d383932353734393646392d7365656b6c6f676f2e636f6d2e706e67"/>
+<img align="left" alt="Microsoft-Suit" width="27px" height="27px" src="https://camo.githubusercontent.com/640dd6f33eb2e8bdb206561440b11dc26c47c279ee4c2c9af91e20096a5bd2bb/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d6963726f736f66742e737667"/>
+<img align="left" alt="Google-Suit" width="27px" height="27px" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667"/>
 
 <br />
 <br />
