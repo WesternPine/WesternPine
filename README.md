@@ -12,12 +12,12 @@
 
  - ⌨ I started coding in 2012! Wow I'm old...
  - 🎮 I learned to code by making what I needed for my games.
- - 🌈 Favorite Color: ⚫/⚪/🔵
- - ⭐ Proudest Achievement: Not giving up on my projects or degree when things got tough.
+ - 🌈 Favorite Color: ⚫
+ - ⭐ Proudest Achievement: [pulsebot.gg](https://pulsebot.gg)
  - 📜 My major is in Computer Science.
  - 🎓 I graduated as an honor student with an A.S. in Computer Information Technology.
  - ⚪ I also completed other courses and certifications to become more well-rounded.
- - 💻 Programming is my hobby, however, I do all sorts of Computer and Network related activities!
+ - 💻 Programming is my hobby, however, I do all sorts of Computer and Networking related activities!
  - 🎵 Favorite Genra: Rock/Alternative
  - 🎸 Favorite Artist: Highly Suspect
 
