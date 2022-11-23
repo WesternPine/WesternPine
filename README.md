@@ -2,7 +2,6 @@
 
 [![Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:tyler@westernpine.dev)
 ![WesternPine Views](https://komarev.com/ghpvc/?username=WesternPine&label=Profile%20Views&color=aabbff&style=flat-square)
-<p><a href="https://westernpine.us-southeast-1.linodeobjects.com/test.md" target="_blank" download="test.md">Save the image</a></p>
 
 ## Why "WesternPine"? 🌲
 
