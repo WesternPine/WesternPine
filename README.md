@@ -1,11 +1,11 @@
 # I'm Tyler! 🙂
 
 [![Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:tyler@westernpine.dev)
-![WesternPine Views](https://komarev.com/ghpvc/?username=WesternPine&label=Profile%20Views&color=aabbff&style=flat-square)
+[![WesternPine Views](https://komarev.com/ghpvc/?username=WesternPine&label=Profile%20Views&color=aabbff&style=flat-square)](https://westernpine.dev)
 
 ## Why "WesternPine"? 🌲
 
-Picture a mountianous landscape... chances are you're seeing a Western White Pine. They are one of the fastest growing, most environmentally diversified, and adaptive plants in existance, and I plan to be as well. ;)
+Picture a mountainous landscape... chances are you're seeing a Western White Pine. They are one of the fastest growing, most environmentally diversified, and adaptive plants in existence, and I plan to be as well.
 
 ## About Me
 
