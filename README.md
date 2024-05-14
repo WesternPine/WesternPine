@@ -16,6 +16,14 @@ Picture a mountainous landscape... chances are you're seeing a Western White Pin
 | 🎵 **Favorite Genra:** <u>Rock/Alternative</u> | 🎓 I graduated as an honor student with an A.S. in Computer Information Technology. |
 | 🎸 **Favorite Artist:** <u>Highly Suspect</u> | 💻 Programming is my hobby, however, I do all sorts of Computer and Networking related activities! |
 
+| Language | Experience | Certified |
+| --- | --- | --- |
+| Java | 10+ Years | <ul><li>- [ ] </li></ul> |
+| SQL | 4 Years | <ul><li>- [ ] </li></ul> |
+| C# | 2 Years | <ul><li>- [x] </li></ul> |
+| Python | 1 Year | <ul><li>- [x] </li></ul> |
+
+
 ---
 
 <details>
