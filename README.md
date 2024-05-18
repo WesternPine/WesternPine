@@ -13,7 +13,7 @@ Picture a mountainous landscape... chances are you're seeing a Western White Pin
 | --- | --- |
 | 🎮 I learned to code by making what I needed for my games. | ⌨ I started coding in 2012! Wow I'm old... |
 | ➡ I'm your typical generic guy, simple and straight-forward. | 📜 My major is in Computer Science. |
-| 🎵 **Favorite Genra:** <u>Rock/Alternative</u> | 🎓 I graduated as an honor student with an A.S. in Computer Information Technology. |
+| 🎵 **Favorite Genra:** <u>Rock/Alternative</u> | 🎓 I graduated as an honor student with an A.S. in Computer Information Technology. (3.59 GPA) |
 | 🎸 **Favorite Artist:** <u>Highly Suspect</u> | 💻 Programming is my hobby, however, I do all sorts of Computer and Networking related activities! |
 
 | Language | Experience | Certified |
