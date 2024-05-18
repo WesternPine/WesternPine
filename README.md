@@ -1,4 +1,4 @@
-# I'm Tyler! 
+# I'm Tyler! 👋
 
 [![Mail](https://img.shields.io/badge/Tyler%40WesternPine.Dev-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:tyler@westernpine.dev)
 [![WesternPine Views](https://komarev.com/ghpvc/?username=WesternPine&label=Profile%20Views&color=aabbff&style=flat-square)](https://westernpine.dev)
