@@ -5,7 +5,7 @@
 
 ## Why "WesternPine"? 🌲
 
-Picture a mountainous landscape... chances are you're seeing a Western White Pine. They are one of the fastest growing, most environmentally diversified, and adaptive plants in existence, and I plan to be as well.
+Picture a mountainous landscape... chances are you're also imagining a Western White Pine. They are one of the fastest growing, most environmentally diversified, and adaptive plants in existence, and I plan to be as well.
 
 ## About Me
 
