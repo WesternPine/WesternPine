@@ -20,13 +20,14 @@ Picture a mountainous landscape... chances are you're also imagining a Western W
 ---
 
 <details>
+  <summary>✔ GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WesternPine&show_icons=true&hide_border=false&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark&show_icons=true&locale=en&layout=compact" />
+</details>
+
 | Language | Experience | Certified |
 | --- | --- | --- |
 | Java | 10+ Years | <ul><li>- [ ] </li></ul> |
 | SQL | 4 Years | <ul><li>- [ ] </li></ul> |
 | C# | 2 Years | <ul><li>- [x] </li></ul> |
 | Python | 1 Year | <ul><li>- [x] </li></ul> |
-  <summary>✔ GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WesternPine&show_icons=true&hide_border=false&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark&show_icons=true&locale=en&layout=compact" />
-</details>
