@@ -16,18 +16,17 @@ Picture a mountainous landscape... chances are you're also imagining a Western W
 | 🎵 **Favorite Genra:** <u>Rock/Alternative</u> | 🎓 I graduated as an honor student with an A.S. in Computer Information Technology. (3.59 GPA) |
 | 🎸 **Favorite Artist:** <u>Highly Suspect</u> | 💻 Programming is my hobby, however, I do all sorts of Computer and Networking related activities! |
 
+
+---
+
+<details>
 | Language | Experience | Certified |
 | --- | --- | --- |
 | Java | 10+ Years | <ul><li>- [ ] </li></ul> |
 | SQL | 4 Years | <ul><li>- [ ] </li></ul> |
 | C# | 2 Years | <ul><li>- [x] </li></ul> |
 | Python | 1 Year | <ul><li>- [x] </li></ul> |
-
-
----
-
-<details>
-<summary>✔ GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WesternPine&show_icons=true&hide_border=false&theme=dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark&show_icons=true&locale=en&layout=compact" />
+  <summary>✔ GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WesternPine&show_icons=true&hide_border=false&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesternPine&theme=dark&show_icons=true&locale=en&layout=compact" />
 </details>
